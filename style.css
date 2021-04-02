@@ -1,0 +1,47 @@
+
+body {
+    background-image: url("https://wallpapertag.com/wallpaper/full/9/f/c/417442-popular-starry-sky-background-1920x1080-for-tablet.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+	.login_div1 , .login_div2
+	{
+		color: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+	#img1{
+		border-radius: 180px;
+		height: 200px;
+		width: 200px;
+	}
+#text1{
+	color: white;
+}
+#btn1{
+	border-radius: 80px;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #047e4b;
+padding: 10px;
+float: none;
+text-align: left;
+}
